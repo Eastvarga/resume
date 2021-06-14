@@ -1,0 +1,23 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eastvarga/resume.git"
+  },
+  "author": "Alexander <ropoloid@bigmir.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eastvarga/resume/issues"
+  },
+  "homepage": "https://github.com/Eastvarga/resume",
+  "devDependencies": {
+    "gh-pages": "^3.2.0"
+  }
+}
