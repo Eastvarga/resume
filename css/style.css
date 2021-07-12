@@ -80,7 +80,7 @@ body {
 }
 .contacts-link {
   display: flex;
-  color: var(--main-text-color);
+  color: var(--secondary-text-color);
   font-family: Montserrat;
   font-size: var(--secondary-font-size);
   font-weight: 400;
@@ -137,10 +137,10 @@ body {
   font-weight: 400;
   line-height: 24px;
   margin-left: 15px;
-  color: var(--main-text-color);
+  /* color: var(--secondary-font-size); */
 }
 .soft-skills-item-title {
-  color: var(--main-text-color);
+  color: var(--secondary-text-color);
 }
 .profession {
   margin-bottom: 23px;
