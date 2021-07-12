@@ -4,8 +4,8 @@
   "description": "resume",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start": ""
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ./"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Eastvarga/resume/issues"
   },
-  "homepage": "https://github.com/Eastvarga/resume#readme",
+  "homepage": "https://github.com/Eastvarga/resume",
   "devDependencies": {
     "gh-pages": "^3.2.0"
   }
