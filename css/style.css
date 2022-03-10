@@ -196,6 +196,10 @@ body {
 .prof-company {
   color: var(--main-text-color);
 }
+.prof-company-link{
+  color: var(--main-text-color);
+  text-decoration: none;
+}
 .prof-period {
   color: var(--secondary-text-color);
   font-size: var(--secondary-font-size);
